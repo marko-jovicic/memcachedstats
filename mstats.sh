@@ -8,7 +8,7 @@ cat <<EOF
 
 	Command show memory statistics of Memcached
 
-    mslabStats [ -h ] -n HOST_NAME -p PORT
+    mstats [ -h ] -n HOST_NAME -p PORT
 
     where options are:
 
